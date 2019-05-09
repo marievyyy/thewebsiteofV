@@ -1,3 +1,3 @@
 # thewebsiteofv
-[The Website of V](www.ivymarieporras.com) showcasing her web projects, designs, and illustrations.
+The Website of V showcasing her web projects, designs, and illustrations.
 
